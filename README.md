@@ -4,11 +4,24 @@ You can send an image containing text to this bot and it will respond quickly wi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![@MutyalaHarshith/OCR-Bot](https://socialify.git.ci/MutyalaHarshith/OCR-Bot/image?custom_description=A+Telegram+bot+to+extract+text+from+image.&description=1&font=Jost&forks=1&logo=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=auto)
+<div align=center>
+  <p>
+    <img src="https://img.shields.io/github/license/MutyalaHarshith/OCR-Bot?style=Normal&Color=0097A7&color=blue&logo=git&logoColor=white&label=Licence" alt="Licence" />
+    <img src="https://img.shields.io/github/last-commit/MutyalaHarshith/OCR-Bot?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/MutyalaHarshith/OCR-Bot?style=flat&color=0097A7&logo=git&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    </p>
+    </div>
+    <div align=center>
+  <p>
+    
+[![](https://img.shields.io/badge/Telegram%20Channel-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/ExistBots) [![](https://img.shields.io/badge/Support%20Group-Join-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/GroupExist) 
 
+</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Features
+**Features**
 
 * Extract readable text from uploaded images (JPG, PNG).
 
@@ -16,7 +29,8 @@ You can send an image containing text to this bot and it will respond quickly wi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚙️ Configuration Variables
+**⚙️ Configuration Variables**
+
 Add these environment variables to configure your bot:
 | Variable           | Description                                                |
 |--------------------|------------------------------------------------------------|
@@ -26,7 +40,7 @@ Add these environment variables to configure your bot:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Bot Commands
+**Bot Commands**
 
 ```
 start - Check I'm Alive or Dead 
@@ -41,7 +55,9 @@ help - Help Guide for new Users
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Deployment Methods 
+<details>
+    <summary><b>Deployment Methods</b></summary>
+ 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
@@ -85,7 +101,7 @@ python3 -m ocrbot
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
+ **ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...**
 
 </b>⋗  ᴏᴡɴᴇʀ - <b>[ᴍᴜᴛʏᴀʟᴀ ʜᴀʀsʜɪᴛʜ](https://t.me/MutyalaHarshith)</b>
 
@@ -96,7 +112,7 @@ python3 -m ocrbot
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## Note:
+**Note:**
 
 - Please, Just Fork The Repo And Edit As Per Your Needs. # Don't Remove My Credit.
 - ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ.
