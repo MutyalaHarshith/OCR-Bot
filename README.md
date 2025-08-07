@@ -48,7 +48,7 @@ help - Help Guide for new Users
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p></p> <b align="center">REPORT ANY INSTAGRAM ACCOUNT</b> </p>
+<p></p> <b align="center">IMPORTANT NOTICE</b> </p>
 
 > [!CAUTION]
 > ```This tool is created for EDUCATIONAL PURPOSES ONLY. The creator is not responsible for any damage or misuse of this tool.```
